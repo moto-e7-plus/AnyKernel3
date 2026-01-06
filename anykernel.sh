@@ -10,12 +10,12 @@ do.modules=1
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=guamp
+device.name1=guam
 device.name2=
 device.name3=
 device.name4=
 device.name5=
-supported.versions=14.0-16.0
+supported.versions=
 supported.patchlevels=
 supported.vendorpatchlevels=
 '; } # end properties
